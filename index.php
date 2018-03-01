@@ -1,9 +1,5 @@
 <?php
 
-echo "Ola mundo 123456";
-
-
-
-echo "Ola udemy";
+echo "Ok, irá ficar apenas o: Ola udemy";
 
 ?>
